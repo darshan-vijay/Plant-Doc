@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+Pillow
+transformers
+peft
+datasets
+evaluate
+numpy

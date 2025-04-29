@@ -1,0 +1,656 @@
+[
+  {
+    "disease": "Cherry Powdery Mildew",
+    "input": "What are the early symptoms of Cherry Powdery Mildew on leaves?",
+    "target": "Early symptoms include light, roughly circular powdery white patches on young, light-green leaves, typically visible 7–10 days after rainfall or irrigation."
+  },
+  {
+    "disease": "Cherry Powdery Mildew",
+    "input": "How does Cherry Powdery Mildew spread throughout a cherry orchard?",
+    "target": "It spreads through asexual spores dispersed by wind during the growing season, starting from overwintering chasmothecia."
+  },
+  {
+    "disease": "Cherry Powdery Mildew",
+    "input": "What environmental conditions favor the development of Cherry Powdery Mildew?",
+    "target": "High humidity, warm temperatures between 70–80°F, morning fogs, and shaded dense canopies promote disease development."
+  },
+  {
+    "disease": "Cherry Powdery Mildew",
+    "input": "How can pruning help manage Cherry Powdery Mildew in cherries?",
+    "target": "Pruning improves airflow and sunlight penetration, reducing canopy humidity and enhancing fungicide coverage."
+  },
+  {
+    "disease": "Cherry Powdery Mildew",
+    "input": "Which fungicides are commonly used to treat Cherry Powdery Mildew?",
+    "target": "Demethylation inhibitors like myclobutanil, strobilurins, and sulfur fungicides are used to manage Cherry Powdery Mildew."
+  },
+  {
+    "disease": "Apple Black Rot",
+    "input": "What are the visible symptoms of Apple Black Rot on fruits and leaves?",
+    "target": "Fruits develop brown, circular lesions with concentric black rings, while leaves show small 'frog-eye' spots with purplish-red margins."
+  },
+  {
+    "disease": "Apple Black Rot",
+    "input": "How does Apple Black Rot survive and spread between seasons?",
+    "target": "The pathogen overwinters in dead wood, cankers, and mummified fruits, releasing spores during wet conditions in spring and summer."
+  },
+  {
+    "disease": "Apple Black Rot",
+    "input": "What environmental factors make apple trees more susceptible to Black Rot?",
+    "target": "Warm, humid weather, drought stress, poor drainage, and cold injuries increase apple trees' susceptibility to Black Rot."
+  },
+  {
+    "disease": "Apple Black Rot",
+    "input": "How can orchard sanitation help prevent Apple Black Rot infections?",
+    "target": "Removing dead wood, pruning out cankers, and eliminating mummified fruits help reduce sources of infection."
+  },
+  {
+    "disease": "Apple Black Rot",
+    "input": "Which fungicides are recommended for managing Apple Black Rot?",
+    "target": "Fungicides like captan, thiophanate-methyl, and strobilurins are effective when applied preventively during bloom and summer."
+  },
+  {
+    "disease": "Strawberry Leaf Scorch",
+    "input": "What are the distinguishing symptoms of Strawberry Leaf Scorch?",
+    "target": "Small dark purple spots that resemble tar drops form on leaves, eventually coalescing into large purple or bright red areas."
+  },
+  {
+    "disease": "Strawberry Leaf Scorch",
+    "input": "How does Strawberry Leaf Scorch differ from other strawberry diseases?",
+    "target": "In Strawberry Leaf Scorch, lesion centers remain purple without defined borders, unlike other leaf spot diseases with white centers."
+  },
+  {
+    "disease": "Strawberry Leaf Scorch",
+    "input": "What environmental conditions favor the development of Strawberry Leaf Scorch?",
+    "target": "Warm temperatures (68–86°F) combined with high humidity and prolonged leaf wetness favor disease development."
+  },
+  {
+    "disease": "Strawberry Leaf Scorch",
+    "input": "How can irrigation practices help manage Strawberry Leaf Scorch?",
+    "target": "Using drip irrigation instead of overhead watering reduces leaf wetness and lowers disease pressure."
+  },
+  {
+    "disease": "Strawberry Leaf Scorch",
+    "input": "How does renovation after harvest help manage Strawberry Leaf Scorch?",
+    "target": "Mowing old foliage and thinning plants after harvest removes inoculum and improves airflow for healthier regrowth."
+  },
+  {
+    "disease": "Tomato Early Blight",
+    "input": "What are the characteristic symptoms of Tomato Early Blight on leaves?",
+    "target": "Brown to black spots with concentric rings resembling a bullseye form on older leaves, often surrounded by yellow halos."
+  },
+  {
+    "disease": "Tomato Early Blight",
+    "input": "How does Tomato Early Blight spread in tomato fields?",
+    "target": "The fungus survives in plant debris and spreads via spores carried by rain splash, irrigation water, and wind."
+  },
+  {
+    "disease": "Tomato Early Blight",
+    "input": "What environmental conditions promote Tomato Early Blight outbreaks?",
+    "target": "Warm temperatures (75–85°F) and high humidity favor rapid development and spread of Tomato Early Blight."
+  },
+  {
+    "disease": "Tomato Early Blight",
+    "input": "How can crop rotation help manage Tomato Early Blight?",
+    "target": "Rotating tomatoes with non-solanaceous crops for 2–3 years reduces pathogen buildup in the soil."
+  },
+  {
+    "disease": "Tomato Early Blight",
+    "input": "Which fungicides are effective against Tomato Early Blight?",
+    "target": "Chlorothalonil, mancozeb, and copper-based fungicides are commonly used to manage Tomato Early Blight."
+  },
+  {
+    "disease": "Corn Common Rust",
+    "input": "What are the early symptoms of Corn Common Rust?",
+    "target": "Early symptoms include small chlorotic specks that develop into reddish-brown pustules on both leaf surfaces."
+  },
+  {
+    "disease": "Corn Common Rust",
+    "input": "How does Corn Common Rust typically spread to new plants?",
+    "target": "Urediniospores are blown northward by wind from overwintering sites in warmer regions and infect moist leaf surfaces."
+  },
+  {
+    "disease": "Corn Common Rust",
+    "input": "What environmental conditions favor the spread of Corn Common Rust?",
+    "target": "Moderate temperatures (60–80°F) combined with frequent rain, dew, and high humidity favor Corn Common Rust."
+  },
+  {
+    "disease": "Corn Common Rust",
+    "input": "How do resistant hybrids help in managing Corn Common Rust?",
+    "target": "Resistant corn hybrids either delay infection or reduce pustule formation, helping protect yield under disease pressure."
+  },
+  {
+    "disease": "Corn Common Rust",
+    "input": "What fungicides are used to protect corn plants from Common Rust?",
+    "target": "Triazole and strobilurin fungicides are effective against Corn Common Rust when applied at the early stages of infection."
+  },
+  {
+    "disease": "Grape Esca (Black Measles)",
+    "input": "What are the typical leaf symptoms of Grape Esca?",
+    "target": "Leaves show interveinal striping with dark red or yellow stripes that become necrotic, leading to premature leaf drop."
+  },
+  {
+    "disease": "Grape Esca (Black Measles)",
+    "input": "How does the Esca disease cycle progress throughout the season?",
+    "target": "Fungal spores infect pruning wounds in spring, leading to permanent localized wood infections that cannot be eradicated."
+  },
+  {
+    "disease": "Grape Esca (Black Measles)",
+    "input": "Which fungi are responsible for causing Grape Esca?",
+    "target": "Phaeomoniella chlamydospora and Phaeoacremonium species are the main fungi responsible for Grape Esca."
+  },
+  {
+    "disease": "Grape Esca (Black Measles)",
+    "input": "Why is there no chemical cure for Grape Esca?",
+    "target": "Once established inside the vine wood, the fungal infections are permanent and fungicides cannot eliminate them."
+  },
+  {
+    "disease": "Grape Esca (Black Measles)",
+    "input": "How does environmental stress influence Grape Esca severity?",
+    "target": "Heavy spring rains followed by hot summers can exacerbate toxin production and symptom severity in infected vines."
+  },
+  {
+    "disease": "Grape Leaf Blight (Isariopsis Leaf Spot)",
+    "input": "What are the early symptoms of Grape Leaf Blight on grape leaves?",
+    "target": "Small, angular, dark brown to black spots between veins appear, enlarging into irregular brown blighted areas."
+  },
+  {
+    "disease": "Grape Leaf Blight (Isariopsis Leaf Spot)",
+    "input": "How does Grape Leaf Blight affect grapevine productivity?",
+    "target": "Severe foliar loss weakens the vine, reducing photosynthesis and leading to poor fruit development and yield loss."
+  },
+  {
+    "disease": "Grape Leaf Blight (Isariopsis Leaf Spot)",
+    "input": "How is Grape Leaf Blight spread between grape plants?",
+    "target": "Spores produced in spring are dispersed by wind or splashing rain onto new leaves, especially under wet conditions."
+  },
+  {
+    "disease": "Grape Leaf Blight (Isariopsis Leaf Spot)",
+    "input": "What management practices are effective against Grape Leaf Blight?",
+    "target": "Good vineyard sanitation, pruning for airflow, and timely fungicide applications during rapid shoot growth are effective."
+  },
+  {
+    "disease": "Grape Leaf Blight (Isariopsis Leaf Spot)",
+    "input": "How does canopy management help reduce Grape Leaf Blight severity?",
+    "target": "Pruning to improve air circulation and reduce humidity lowers the risk of infection and disease spread."
+  },
+  {
+    "disease": "Orange Huanglongbing (Citrus Greening)",
+    "input": "What are the main symptoms of Citrus Greening disease?",
+    "target": "Symptoms include asymmetrical mottling of leaves, stunted growth, bitter-tasting misshapen fruits, and feeder root decay."
+  },
+  {
+    "disease": "Orange Huanglongbing (Citrus Greening)",
+    "input": "How is Citrus Greening transmitted between trees?",
+    "target": "It is transmitted primarily by Asian and African citrus psyllids or through grafting infected budwood."
+  },
+  {
+    "disease": "Orange Huanglongbing (Citrus Greening)",
+    "input": "Why is Citrus Greening considered a serious threat to citrus production?",
+    "target": "It causes systemic phloem blockage, tree decline, poor fruit quality, and eventual death with no available cure."
+  },
+  {
+    "disease": "Orange Huanglongbing (Citrus Greening)",
+    "input": "What management strategies are used to control Citrus Greening?",
+    "target": "Early detection, removing infected trees, psyllid control, and planting pathogen-free nursery stock are key strategies."
+  },
+  {
+    "disease": "Orange Huanglongbing (Citrus Greening)",
+    "input": "What challenges exist in detecting Citrus Greening early?",
+    "target": "Early symptoms mimic nutrient deficiencies and systemic infection makes detection difficult until significant damage occurs."
+  },
+  {
+    "disease": "Peach Bacterial Spot",
+    "input": "What are the symptoms of Peach Bacterial Spot on leaves and fruits?",
+    "target": "Leaves develop angular water-soaked lesions that darken, and fruits show pitted, scab-like spots that scar the surface."
+  },
+  {
+    "disease": "Peach Bacterial Spot",
+    "input": "How does Peach Bacterial Spot spread among trees?",
+    "target": "The bacterium spreads through rain splash, wind-driven rain, and entry via wounds during wet, windy conditions."
+  },
+  {
+    "disease": "Peach Bacterial Spot",
+    "input": "Which environmental factors worsen Peach Bacterial Spot outbreaks?",
+    "target": "High rainfall, high humidity, and wounding from sand abrasion increase Peach Bacterial Spot severity."
+  },
+  {
+    "disease": "Peach Bacterial Spot",
+    "input": "What cultural practices can reduce Peach Bacterial Spot severity?",
+    "target": "Pruning for air circulation, planting resistant varieties, and maintaining tree health help minimize infection."
+  },
+  {
+    "disease": "Peach Bacterial Spot",
+    "input": "What chemical treatments are used for Peach Bacterial Spot?",
+    "target": "Copper sprays during dormancy and bactericides during the growing season help limit bacterial spot infections."
+  },
+  {
+    "disease": "Bell Pepper Bacterial Spot",
+    "input": "What are the typical symptoms of Bell Pepper Bacterial Spot?",
+    "target": "Symptoms include irregular, water-soaked leaf lesions, raised scab-like fruit spots, and potential stem cankers."
+  },
+  {
+    "disease": "Bell Pepper Bacterial Spot",
+    "input": "How does Bell Pepper Bacterial Spot survive across seasons?",
+    "target": "The bacterium survives in contaminated seeds, infected plant debris, and volunteer plants across seasons."
+  },
+  {
+    "disease": "Bell Pepper Bacterial Spot",
+    "input": "What environmental conditions promote Bell Pepper Bacterial Spot outbreaks?",
+    "target": "Warm temperatures above 70°F, high humidity, and frequent rain or irrigation favor bacterial spot outbreaks."
+  },
+  {
+    "disease": "Bell Pepper Bacterial Spot",
+    "input": "How can resistant varieties help control Bell Pepper Bacterial Spot?",
+    "target": "Resistant cultivars limit infection by strains of Xanthomonas, reducing disease severity and spread."
+  },
+  {
+    "disease": "Bell Pepper Bacterial Spot",
+    "input": "What integrated management practices help control Bell Pepper Bacterial Spot?",
+    "target": "Using certified seeds, crop rotation, copper sprays, pruning, sanitation, and drip irrigation are key integrated practices."
+  },
+
+  {
+    "disease": "Potato Early Blight",
+    "input": "What are the typical symptoms of Potato Early Blight on leaves?",
+    "target": "Small dark brown to black spots with concentric rings and yellow halos appear on older leaves."
+  },
+  {
+    "disease": "Potato Early Blight",
+    "input": "How does Potato Early Blight spread within potato fields?",
+    "target": "Spores spread by wind, rain splash, and mechanical means from infected plant debris or soil."
+  },
+  {
+    "disease": "Potato Early Blight",
+    "input": "What conditions favor the development of Potato Early Blight?",
+    "target": "Warm temperatures between 75–85°F and high humidity favor rapid disease development."
+  },
+  {
+    "disease": "Potato Early Blight",
+    "input": "What preventive practices help control Potato Early Blight?",
+    "target": "Crop rotation, removal of infected debris, certified seed use, and proper plant spacing help prevent Early Blight."
+  },
+  {
+    "disease": "Potato Early Blight",
+    "input": "Which fungicides are recommended for managing Potato Early Blight?",
+    "target": "Preventative fungicide applications, especially during high-risk periods, are recommended for managing Potato Early Blight."
+  },
+
+  {
+    "disease": "Potato Late Blight",
+    "input": "What are the early signs of Potato Late Blight on leaves and stems?",
+    "target": "Water-soaked pale green lesions rapidly turning brown and white fluffy fungal growth under humid conditions."
+  },
+  {
+    "disease": "Potato Late Blight",
+    "input": "How does Potato Late Blight differ from Early Blight?",
+    "target": "Late Blight causes soft, water-soaked lesions with rapid spread, unlike the target-like dry lesions of Early Blight."
+  },
+  {
+    "disease": "Potato Late Blight",
+    "input": "What environmental conditions favor Potato Late Blight outbreaks?",
+    "target": "Cool temperatures between 50–77°F and high humidity favor Potato Late Blight outbreaks."
+  },
+  {
+    "disease": "Potato Late Blight",
+    "input": "How is Potato Late Blight managed in the field?",
+    "target": "Using certified seed, destroying cull piles, regular fungicide application, and proper irrigation practices manage Late Blight."
+  },
+  {
+    "disease": "Potato Late Blight",
+    "input": "Why is field sanitation critical for Potato Late Blight control?",
+    "target": "Removing infected tubers, volunteer plants, and debris eliminates sources of overwintering inoculum for Late Blight."
+  },
+  {
+    "disease": "Squash Powdery Mildew",
+    "input": "What are the symptoms of Squash Powdery Mildew on leaves?",
+    "target": "White powdery fungal growth appears on upper and lower leaf surfaces, leading to yellowing and premature leaf death."
+  },
+  {
+    "disease": "Squash Powdery Mildew",
+    "input": "How does Squash Powdery Mildew typically spread?",
+    "target": "The fungus overwinters in plant debris and produces airborne spores that infect new plants under favorable conditions."
+  },
+  {
+    "disease": "Squash Powdery Mildew",
+    "input": "What environmental conditions favor Squash Powdery Mildew infection?",
+    "target": "Warm dry days combined with cool humid nights favor the development of Squash Powdery Mildew."
+  },
+  {
+    "disease": "Squash Powdery Mildew",
+    "input": "What preventive measures can help manage Squash Powdery Mildew?",
+    "target": "Planting resistant varieties, ensuring proper spacing, and removing infected parts help manage the disease."
+  },
+  {
+    "disease": "Squash Powdery Mildew",
+    "input": "Which treatments are effective against Squash Powdery Mildew?",
+    "target": "Sulfur, neem oil, and fungicide applications at the first sign of infection are effective treatments."
+  },
+
+  {
+    "disease": "Tomato Bacterial Spot",
+    "input": "What are the symptoms of Tomato Bacterial Spot on leaves and fruits?",
+    "target": "Small water-soaked spots on leaves with yellow halos and slightly raised brown scabby spots on fruits."
+  },
+  {
+    "disease": "Tomato Bacterial Spot",
+    "input": "How does Tomato Bacterial Spot spread among tomato plants?",
+    "target": "It spreads through rain splash, wind, contaminated tools, and infected seeds or transplants."
+  },
+  {
+    "disease": "Tomato Bacterial Spot",
+    "input": "What weather conditions favor Tomato Bacterial Spot outbreaks?",
+    "target": "Warm temperatures between 75–86°F and high humidity conditions promote Tomato Bacterial Spot outbreaks."
+  },
+  {
+    "disease": "Tomato Bacterial Spot",
+    "input": "What practices can help prevent Tomato Bacterial Spot infections?",
+    "target": "Using certified seeds, rotating crops, removing debris, and minimizing leaf wetness prevent infections."
+  },
+  {
+    "disease": "Tomato Bacterial Spot",
+    "input": "Which bactericides are effective against Tomato Bacterial Spot?",
+    "target": "Copper-based bactericides are commonly used for controlling Tomato Bacterial Spot when applied preventatively."
+  },
+  {
+    "disease": "Tomato Late Blight",
+    "input": "What are the visual symptoms of Tomato Late Blight?",
+    "target": "Water-soaked irregular lesions on leaves with pale green borders and dark brown lesions on stems and fruits."
+  },
+  {
+    "disease": "Tomato Late Blight",
+    "input": "How does Tomato Late Blight spread between tomato plants?",
+    "target": "Wind-blown spores and rain splash spread Tomato Late Blight rapidly between plants."
+  },
+  {
+    "disease": "Tomato Late Blight",
+    "input": "What environmental conditions favor Tomato Late Blight outbreaks?",
+    "target": "Cool temperatures (60–70°F) and high humidity conditions favor Tomato Late Blight outbreaks."
+  },
+  {
+    "disease": "Tomato Late Blight",
+    "input": "How can fungicide programs help control Tomato Late Blight?",
+    "target": "Applying copper or chlorothalonil fungicides early and consistently helps prevent and manage Tomato Late Blight."
+  },
+  {
+    "disease": "Tomato Late Blight",
+    "input": "Why is it important to destroy infected plants promptly?",
+    "target": "Prompt removal of infected plants prevents further spread of spores and protects healthy crops from infection."
+  },
+
+  {
+    "disease": "Tomato Leaf Mold",
+    "input": "What are the early symptoms of Tomato Leaf Mold?",
+    "target": "Pale green or yellow spots appear on the upper leaf surfaces, while olive-green to brown velvety mold forms underneath."
+  },
+  {
+    "disease": "Tomato Leaf Mold",
+    "input": "What conditions favor the development of Tomato Leaf Mold?",
+    "target": "High humidity levels above 85% and temperatures between 60–80°F favor the development of Tomato Leaf Mold."
+  },
+  {
+    "disease": "Tomato Leaf Mold",
+    "input": "How does Tomato Leaf Mold spread within tomato crops?",
+    "target": "The fungus spreads through airborne spores and water splash, particularly in greenhouses with poor ventilation."
+  },
+  {
+    "disease": "Tomato Leaf Mold",
+    "input": "What cultural practices help prevent Tomato Leaf Mold?",
+    "target": "Good ventilation, reducing humidity, and removing infected plant material are key cultural practices for prevention."
+  },
+  {
+    "disease": "Tomato Leaf Mold",
+    "input": "Which fungicides are effective against Tomato Leaf Mold?",
+    "target": "Mancozeb and chlorothalonil fungicides can help prevent Tomato Leaf Mold when applied early in disease development."
+  },
+  {
+    "disease": "Tomato Septoria Leaf Spot",
+    "input": "What are the distinguishing symptoms of Tomato Septoria Leaf Spot?",
+    "target": "Small circular spots with dark borders and tan or gray centers form on lower leaves, often leading to defoliation."
+  },
+  {
+    "disease": "Tomato Septoria Leaf Spot",
+    "input": "How does Tomato Septoria Leaf Spot affect tomato plant health?",
+    "target": "Septoria infections cause premature leaf drop, reducing photosynthetic capacity and weakening the tomato plant."
+  },
+  {
+    "disease": "Tomato Septoria Leaf Spot",
+    "input": "What environmental factors promote Tomato Septoria Leaf Spot outbreaks?",
+    "target": "Warm, wet weather conditions and poor air circulation promote Septoria Leaf Spot outbreaks."
+  },
+  {
+    "disease": "Tomato Septoria Leaf Spot",
+    "input": "How can crop rotation help manage Tomato Septoria Leaf Spot?",
+    "target": "Rotating tomatoes with non-host crops helps prevent the buildup of Septoria spores in the soil and debris."
+  },
+  {
+    "disease": "Tomato Septoria Leaf Spot",
+    "input": "Which fungicides are effective against Tomato Septoria Leaf Spot?",
+    "target": "Copper-based fungicides and chlorothalonil sprays are effective against Tomato Septoria Leaf Spot when applied early."
+  },
+  {
+    "disease": "Tomato Spider Mites (Two-Spotted)",
+    "input": "What are the symptoms of Spider Mite infestation on tomato plants?",
+    "target": "Symptoms include fine stippling on leaves, bronzed foliage, curling leaves, and visible webbing on undersides."
+  },
+  {
+    "disease": "Tomato Spider Mites (Two-Spotted)",
+    "input": "How do Two-Spotted Spider Mites reproduce and spread?",
+    "target": "Spider mites reproduce rapidly under warm, dry conditions and spread via wind, tools, and infested plants."
+  },
+  {
+    "disease": "Tomato Spider Mites (Two-Spotted)",
+    "input": "What environmental conditions favor Spider Mite outbreaks in tomatoes?",
+    "target": "Hot, dry conditions favor Spider Mite population explosions in tomato crops."
+  },
+  {
+    "disease": "Tomato Spider Mites (Two-Spotted)",
+    "input": "How can natural predators help manage Spider Mite populations?",
+    "target": "Releasing predatory mites can naturally control Two-Spotted Spider Mite infestations in tomato crops."
+  },
+  {
+    "disease": "Tomato Spider Mites (Two-Spotted)",
+    "input": "What chemical and non-chemical methods can control Spider Mites?",
+    "target": "Strong water sprays, horticultural oils, insecticidal soaps, and biological control agents can manage Spider Mite outbreaks."
+  },
+  {
+    "disease": "Apple Scab",
+    "input": "What are the symptoms of Apple Scab on leaves?",
+    "target": "Apple scab symptoms on leaves include dark, irregular lesions that can cause leaves to curl, pucker, and drop prematurely. These lesions often have a velvety, grayish appearance."
+  },
+  {
+    "disease": "Apple Scab",
+    "input": "How does Apple Scab affect fruit?",
+    "target": "Infected fruit develops scabby, sunken lesions, significantly reducing fruit quality and causing deformities."
+  },
+  {
+    "disease": "Apple Scab",
+    "input": "What environmental conditions favor Apple Scab development?",
+    "target": "Apple scab thrives in cool, wet conditions, particularly during spring and early summer when rainfall and humidity are high."
+  },
+  {
+    "disease": "Apple Scab",
+    "input": "How is Apple Scab spread?",
+    "target": "Apple scab is spread by spores released from infected leaves, carried by wind and water, infecting new areas."
+  },
+  {
+    "disease": "Apple Scab",
+    "input": "How can Apple Scab be managed?",
+    "target": "Management includes using resistant apple varieties, orchard sanitation by removing fallen leaves and infected fruit, and applying fungicides before spores are released."
+  },
+  {
+    "disease": "Cedar Apple Rust",
+    "input": "What are the symptoms of Cedar Apple Rust on apple trees?",
+    "target": "Cedar apple rust causes bright yellow-orange spots on apple leaves, which may grow larger, leading to premature leaf drop and reduced photosynthesis."
+  },
+  {
+    "disease": "Cedar Apple Rust",
+    "input": "What is the role of cedar trees in the Cedar Apple Rust disease cycle?",
+    "target": "Cedar trees release spores that travel to nearby apple trees, causing infection. They are the primary source of spores."
+  },
+  {
+    "disease": "Cedar Apple Rust",
+    "input": "How does Cedar Apple Rust affect fruit?",
+    "target": "Infected fruit can develop lesions, leading to deformities and reduced fruit quality."
+  },
+  {
+    "disease": "Cedar Apple Rust",
+    "input": "How can Cedar Apple Rust be prevented?",
+    "target": "Prevention includes removing nearby cedar trees, applying fungicides before and after bloom, and planting resistant apple varieties."
+  },
+  {
+    "disease": "Cedar Apple Rust",
+    "input": "How does pruning help manage Cedar Apple Rust?",
+    "target": "Pruning infected branches improves airflow throughout the orchard, reducing humidity and spore buildup, which helps minimize infection risk."
+  },
+  {
+    "disease": "Corn Grey Leaf Spot",
+    "input": "What are the initial symptoms of Corn Grey Leaf Spot?",
+    "target": "Symptoms begin as small, brown to grayish lesions that develop parallel to the leaf veins."
+  },
+  {
+    "disease": "Corn Grey Leaf Spot",
+    "input": "How does Corn Grey Leaf Spot affect corn plants?",
+    "target": "The lesions grow larger and can merge, causing large areas of dead tissue, which reduces photosynthesis and can lead to stunted growth and lower yields."
+  },
+  {
+    "disease": "Corn Grey Leaf Spot",
+    "input": "What conditions promote Corn Grey Leaf Spot infection?",
+    "target": "GLS thrives in humid, moist environments, particularly with limited airflow and excessive humidity in the field."
+  },
+  {
+    "disease": "Corn Grey Leaf Spot",
+    "input": "How is Corn Grey Leaf Spot spread?",
+    "target": "GLS is primarily spread through rain splash, infected plant debris, and wind."
+  },
+  {
+    "disease": "Corn Grey Leaf Spot",
+    "input": "What are the best management practices for Corn Grey Leaf Spot?",
+    "target": "Management strategies include crop rotation, planting resistant varieties, and applying fungicides early in the growth stages."
+  },
+  {
+    "disease": "Northern Corn Leaf Blight",
+    "input": "What does Northern Corn Leaf Blight look like on corn leaves?",
+    "target": "Northern corn leaf blight is characterized by cigar-shaped lesions that can merge, causing extensive leaf damage."
+  },
+  {
+    "disease": "Northern Corn Leaf Blight",
+    "input": "What environmental conditions favor Northern Corn Leaf Blight?",
+    "target": "NCLB thrives in moist conditions, particularly during wet seasons when the fungus has favorable conditions for spore production."
+  },
+  {
+    "disease": "Northern Corn Leaf Blight",
+    "input": "How does Northern Corn Leaf Blight affect corn yield?",
+    "target": "The disease reduces the plant\u2019s ability to photosynthesize, leading to significant yield loss."
+  },
+  {
+    "disease": "Northern Corn Leaf Blight",
+    "input": "How is Northern Corn Leaf Blight spread?",
+    "target": "The disease spreads through wind-borne spores."
+  },
+  {
+    "disease": "Northern Corn Leaf Blight",
+    "input": "What are the key management strategies for Northern Corn Leaf Blight?",
+    "target": "Management includes using resistant hybrids, crop rotation, timely tillage, and fungicide applications during critical periods."
+  },
+  {
+    "disease": "Grape Black Rot",
+    "input": "What are the symptoms of Grape Black Rot on fruit?",
+    "target": "Symptoms include small, dark, circular lesions that turn black and cause the fruit to shrivel into mummified remains."
+  },
+  {
+    "disease": "Grape Black Rot",
+    "input": "How is Grape Black Rot spread?",
+    "target": "Grape black rot is spread by wind, rain, and infected plant debris."
+  },
+  {
+    "disease": "Grape Black Rot",
+    "input": "What conditions favor the development of Grape Black Rot?",
+    "target": "The disease thrives in hot, humid conditions."
+  },
+  {
+    "disease": "Grape Black Rot",
+    "input": "How can Grape Black Rot be managed?",
+    "target": "Management includes selecting resistant grape cultivars, applying fungicides during flowering, and removing diseased fruit."
+  },
+  {
+    "disease": "Grape Black Rot",
+    "input": "Why is vineyard sanitation important for Grape Black Rot?",
+    "target": "Vineyard sanitation helps reduce inoculum levels by removing infected vines and cleaning up fallen plant material."
+  },
+  {
+    "disease": "Tomato Mosaic Virus",
+    "input": "What are the symptoms of Tomato Mosaic Virus on leaves?",
+    "target": "Symptoms include mottling and discoloration of the leaves, which gives them a mosaic-like appearance."
+  },
+  {
+    "disease": "Tomato Mosaic Virus",
+    "input": "How does Tomato Mosaic Virus affect tomato plants?",
+    "target": "Infected plants have stunted growth, fewer fruits, and reduced fruit quality."
+  },
+  {
+    "disease": "Tomato Mosaic Virus",
+    "input": "How is Tomato Mosaic Virus spread?",
+    "target": "The virus is spread through mechanical means, such as contact with infected tools, workers, and plant debris."
+  },
+  {
+    "disease": "Tomato Mosaic Virus",
+    "input": "How can Tomato Mosaic Virus be prevented?",
+    "target": "Prevention includes using resistant varieties, ensuring virus-free seeds, and practicing good sanitation."
+  },
+  {
+    "disease": "Tomato Mosaic Virus",
+    "input": "What is the treatment for Tomato Mosaic Virus?",
+    "target": "There is no chemical cure for Tomato Mosaic Virus, so infected plants should be removed promptly to prevent further spread."
+  },
+  {
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "input": "What are the symptoms of Tomato Yellow Leaf Curl Virus?",
+    "target": "The virus causes yellowing and curling of the leaves, particularly on the upper part of the plant, along with stunted growth and premature fruit drop."
+  },
+  {
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "input": "How is Tomato Yellow Leaf Curl Virus transmitted?",
+    "target": "The virus is transmitted by whiteflies, which are the vector for spreading the disease."
+  },
+  {
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "input": "How does Tomato Yellow Leaf Curl Virus affect tomato plants?",
+    "target": "Infected plants exhibit reduced flowering and significantly lower yields due to premature fruit drop."
+  },
+  {
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "input": "What are effective management practices for Tomato Yellow Leaf Curl Virus?",
+    "target": "Effective management includes controlling whitefly populations, planting resistant varieties, and removing infected plants."
+  },
+  {
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "input": "How does whitefly control help manage Tomato Yellow Leaf Curl Virus?",
+    "target": "Controlling whiteflies reduces the spread of the virus, which is essential for managing the disease."
+  },
+  {
+    "disease": "Tomato Target Spot",
+    "input": "What are the symptoms of Tomato Target Spot?",
+    "target": "Tomato Target Spot is characterized by target-like lesions on tomato leaves, starting as small, dark brown spots surrounded by concentric rings."
+  },
+  {
+    "disease": "Tomato Target Spot",
+    "input": "How does Tomato Target Spot affect tomato plants?",
+    "target": "The lesions can coalesce and lead to extensive defoliation, reducing the plant\u2019s ability to photosynthesize, which affects growth and yield."
+  },
+  {
+    "disease": "Tomato Target Spot",
+    "input": "What conditions promote Tomato Target Spot development?",
+    "target": "The disease thrives in humid, warm conditions and is common in tropical and subtropical climates."
+  },
+  {
+    "disease": "Tomato Target Spot",
+    "input": "How is Tomato Target Spot spread?",
+    "target": "Tomato Target Spot is spread by rain splash, infected plant debris, and wind."
+  },
+  {
+    "disease": "Tomato Target Spot",
+    "input": "How can Tomato Target Spot be managed?",
+    "target": "Management includes crop rotation, proper plant spacing, fungicide treatments, and good sanitation practices."
+  }
+]
